@@ -8,8 +8,8 @@ email: johncrisostomo@protonmail.ch
 cover: https://johncrisostomo.com/img/og.png
 logo: https://johncrisostomo.com/img/emojis/technologist.png
 social:
-  - title: email
-    url: mailto:johncrisostomo@protonmail.ch
+  - title: blog 
+    url: https://blog.johncrisostomo.com
   - title: twitter
     url: https://twitter.com/johncrisostomo
   - title: codepen
