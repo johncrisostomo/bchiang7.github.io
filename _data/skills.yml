@@ -8,13 +8,11 @@ languages:
   - item: HTML / CSS
 
 frameworks:
-  - item: Node
+  - item: Node (Express, Feathers, etc.)
   - item: React & Redux
-  - item: GraphQL
-  - item: Apollo (Client/Server)
+  - item: GraphQL & Apollo
   - item: ASP .NET Core 2.x
   - item: Entity Framework 2.x
-  - item: Feathers.js 
   - item: Socket.io
   - item: Arduino
   - item: Meteor
