@@ -3,15 +3,15 @@ name: John Crisostomo
 title: John Crisostomo | Software Engineer
 description: Full-stack software generalist with experience in analog electronics
 url: https://johncrisostomo.com/
-baseurl: ""
+baseurl: https://johncrisostomo.com
 email: johncrisostomo@protonmail.ch
 cover: https://johncrisostomo.com/img/og.png
 logo: https://johncrisostomo.com/img/emojis/technologist.png
 social:
-  - title: email
+  - title: email 
     url: mailto:johncrisostomo@protonmail.ch
   - title: twitter
-    url: https://twitter.com/johncrisostomo
+    url: https://twitter.com/_johncrisostomo
   - title: codepen
     url: http://codepen.io/johncrisostomo
   - title: github
