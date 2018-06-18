@@ -9,7 +9,7 @@ languages:
 
 frameworks:
   - item: Node (Express, Feathers, etc.)
-  - item: React & Redux
+  - item: React / React Native & Redux
   - item: GraphQL & Apollo
   - item: ASP .NET Core 2.x
   - item: Entity Framework 2.x
