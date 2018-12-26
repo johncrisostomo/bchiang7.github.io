@@ -1,27 +1,27 @@
 {
-  "name": "johncrisostomo.com",
-  "version": "0.0.0",
-  "description": "Full-stack software generalist with experience in analog electronics",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "John Crisostomo",
-  "license": "ISC",
-  "devDependencies": {
-    "@nuscout/eslint-config": "^0.2.1",
-    "browser-sync": "^2.24.4",
-    "gulp": "3.9.1",
-    "gulp-autoprefixer": "^5.0.0",
-    "gulp-clean-css": "3.9.4",
-    "gulp-eslint": "4.0.2",
-    "gulp-imagemin": "4.1.0",
-    "gulp-sass": "^4.0.1",
-    "gulp-uglify": "3.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/johncrisostomo/johncrisostomo.github.io"
-  },
-  "homepage": "https://johncrisostomo.com"
+    "name": "johncrisostomo.com",
+    "version": "0.0.0",
+    "description": "Full-stack software generalist with experience in analog electronics",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "John Crisostomo",
+    "license": "ISC",
+    "devDependencies": {
+        "@nuscout/eslint-config": "^0.2.1",
+        "browser-sync": "^2.24.4",
+        "gulp": "3.9.1",
+        "gulp-autoprefixer": "^5.0.0",
+        "gulp-clean-css": "3.9.4",
+        "gulp-eslint": "4.0.2",
+        "gulp-imagemin": "4.1.0",
+        "gulp-sass": "^4.0.1",
+        "gulp-uglify": "3.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/johncrisostomo/johncrisostomo.github.io"
+    },
+    "homepage": "https://johncrisostomo.github.io"
 }
